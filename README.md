@@ -54,7 +54,8 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 ## Evidencias
 
-- [YouTube](https://youtu.be/8U-K6bgMQwE)
+- [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7236589590008564998)
+- [YouTube (versión anterior)](https://youtu.be/8U-K6bgMQwE)
 
 # Créditos
 
