@@ -50,7 +50,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]()
+![](https://github.com/hugoescalpelo/flow1-g12/blob/main/imagenes/Screenshot%20from%202023-05-23%2023-26-20.png?raw=true)
 
 ## Evidencias
 
