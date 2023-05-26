@@ -1,4 +1,4 @@
-# flow1-g12
+# flow1-nodeRed-docker-compose 
 Este repositorio contiene el flow 1 de la leccion de nodeRed
 
 ## Introducción
